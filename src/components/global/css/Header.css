@@ -1,0 +1,22 @@
+.header {
+  background-color: #e4ebf3;
+}
+
+.app-header{
+  padding: 10% 0;
+}
+
+.header-text{
+  color: #93979b;
+  font-size: 11px;
+}
+
+.app-logo{
+  padding-bottom: 20px;
+  width: 70px;
+}
+
+.nuchee-logo{
+  width: 140px;
+  padding-bottom: 20px;
+}

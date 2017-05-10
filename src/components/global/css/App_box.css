@@ -1,0 +1,33 @@
+.image-wrapper-regular {
+  position: relative;
+  overflow:hidden;
+  max-height: 110px;
+}
+
+.image-wrapper-regular img {
+  width: 100%;
+}
+
+.image-wrapper-radius img {
+  width: 60%;
+  border-radius: 50%;
+  max-height: 110px;
+}
+
+.image-wrapper-regular p {
+  font-size: 11px;
+  padding: 3px 5px;
+  opacity: 0.9;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: 0px;
+  color: #000000;
+  background: #ffffff;
+  text-align: left;
+  -webkit-transition: opacity 500ms;
+  -moz-transition: opacity 500ms;
+  -o-transition: opacity 500ms;
+  transition: opacity 500ms;
+}
